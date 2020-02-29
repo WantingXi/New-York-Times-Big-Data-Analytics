@@ -16,9 +16,14 @@ Our research into the New York Times uncovered some interesting information abou
 
 # Project Background
 We have considered the New York Times comments data set for understanding how the newspaper affects and shapes the media outlook in the United States and how the readers react and engage on it's platform.
+
 Source of the Dataset : Kaggle
+
 Link : https://www.kaggle.com/aashita/nyt-comments (https://www.kaggle.com/aashita/nyt-comments)
+
 The data set consists of two sets of CSV files, Articles and Comments. The metadata for Articles and Comments are present for the following years and months :
+
 Year 2017 : January, Febuary, March, April, May
 Year 2018 : January, Febuary, March, April
+
 Articles and Comments data are present in total for 9 months.
